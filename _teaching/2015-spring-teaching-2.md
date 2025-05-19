@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Politics and Inequality"
 collection: teaching
-type: "Workshop"
+type: "Block Seminar"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Heinrich Heine University"
+date: 2023-06-01
+location: "Düsseldorf, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I designed and taught the block seminar Politics and Inequality, introducing undergrad students to some of the major topics related to the political economy of inequality, institutions, and redistribution.
