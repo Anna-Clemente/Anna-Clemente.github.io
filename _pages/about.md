@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Teaching Fellow in the Department of Government at the LSE, where I teach seminars for Introduction to Political Science (GV101). I completed my PhD in Political and Social Sciences at the European University Institute (EUI) in Florence in September 2024, and hold an MPhil in European Politics from the University of Oxford. I was also a Fulbright Fellow at Stanford University.
+I am a Postdoctoral Fellow in the Department of Government at the LSE, where I teach seminars for Introduction to Political Science (GV101). I completed my PhD in Political and Social Sciences at the European University Institute (EUI) in Florence in September 2024, and hold an MPhil in European Politics from the University of Oxford. I was also a Fulbright Fellow at Stanford University.
 
 My research explores the origins and persistence of meritocratic beliefs in the face of growing inequality and declining social mobility. I use experimental methods to investigate public attitudes toward fairness and inequality, including housing inequality (motivated in no small part by the mess that is London housing). My research on this topic combines survey and Twitter data to trace how attitudes about the fairness of the economic system respond to increasing visible wealth inequality. 
 
