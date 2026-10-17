@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 
-I am a Postdoctoral Fellow in the Department of Government at the LSE, where I teach seminars for Introduction to Political Science (GV101). I completed my PhD in Political and Social Sciences at the European University Institute (EUI) in Florence in September 2024, and hold an MPhil in European Politics from the University of Oxford. I was also a Fulbright Fellow at Stanford University.
+I am an Assistant Prof in the Department of Social Sciences at CUNEF. Previously, I was a Postdoctoral Fellow in the Department of Government at the LSE. I completed my PhD in Political and Social Sciences at the European University Institute (EUI) in Florence in September 2024, and hold an MPhil in European Politics from the University of Oxford. I was also a Fulbright Fellow at Stanford University.
 
 My research explores the origins and persistence of meritocratic beliefs in the face of growing inequality and declining social mobility. I use experimental methods to investigate public attitudes toward fairness and inequality, including housing inequality (motivated in no small part by the mess that is London housing). My research on this topic combines survey and Twitter data to trace how attitudes about the fairness of the economic system respond to increasing visible wealth inequality. 
 
 A second strand of my work looks at how different types of narratives shape political behaviour. In two projects, I examine how 1) historical memory and 2) collective capacity  shape democratic attitudes and policy preferences. With Ludwig Schulze (EUI) and Joe Kendall (ETH), I study how framing Germany’s past from a perpetrator versus victim perspective influences authoritarian attitudes and support for the AfD. With Giuliano Formisano (Oxford), I investigate how narratives of collective capacity affect collective efficacy, and in turn action towards inequality.
 
-I have also launched and now convene the London Experimental Seminar Series, a workshop hosted at the LSE to promote methodological exchanges, foster a scholarly community, and strengthen research in this field. 
+I also launched and convened the London Experimental Seminar Series, a workshop hosted at the LSE to promote methodological exchanges, foster a scholarly community, and strengthen research in this field. 
 
 **Research interests:**
 * Public attitudes on fairness, inequality and redistribution 
