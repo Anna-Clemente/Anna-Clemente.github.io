@@ -9,9 +9,13 @@ redirect_from:
  
 {% include base_path %}
 
-[**Download CV (PDF)**](/files/Clemente_CV.pdf)
+[**Download CV (PDF)**](/files/CV_updated.pdf)
 
 Current role
+======
+* Assistant Professor, Department of Social Sciences, CUNEF
+
+Previous roles
 ======
 * Postdoctoral Fellow, Department of Government, LSE
 
